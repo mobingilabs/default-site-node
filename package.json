@@ -1,0 +1,11 @@
+{
+  "name": "mobingi-node",
+  "version": "0.0.0",
+  "description": "Mobingi Node Example App",
+  "main": "index.js",
+  "author": "David Siaw <david.siaw@mobingi.com>",
+  "license": "MIT",
+  "dependencies": {
+    "express": "^4.13.3"
+  }
+}
